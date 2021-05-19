@@ -1,0 +1,5 @@
+Matching Dice!
+PLAYER A: gets 2 and 6 with a sum 8
+PLAYER B: gets 1 and 1 with a sum 2
+PLAYER C: gets 3 and 5 with a sum 8
+DEALER: The winning team is A and C

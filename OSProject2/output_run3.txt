@@ -1,0 +1,25 @@
+Matching Dice!
+PLAYER A: gets 4 and 6 with a sum 10
+PLAYER B: gets 1 and 6 with a sum 7
+PLAYER C: gets 3 and 4 with a sum 7
+PLAYER D: gets 6 and 2 with a sum 8
+PLAYER A: gets 5 and 4 with a sum 9
+PLAYER B: gets 3 and 1 with a sum 4
+PLAYER C: gets 5 and 5 with a sum 10
+PLAYER D: gets 6 and 4 with a sum 10
+PLAYER A: gets 3 and 4 with a sum 7
+PLAYER B: gets 2 and 6 with a sum 8
+PLAYER C: gets 1 and 2 with a sum 3
+PLAYER D: gets 1 and 4 with a sum 5
+PLAYER A: gets 5 and 3 with a sum 8
+PLAYER B: gets 1 and 3 with a sum 4
+PLAYER C: gets 4 and 2 with a sum 6
+PLAYER D: gets 5 and 5 with a sum 10
+PLAYER A: gets 5 and 3 with a sum 8
+PLAYER B: gets 5 and 2 with a sum 7
+PLAYER C: gets 5 and 2 with a sum 7
+PLAYER D: gets 1 and 3 with a sum 4
+PLAYER A: gets 3 and 3 with a sum 6
+PLAYER B: gets 1 and 1 with a sum 2
+PLAYER C: gets 2 and 4 with a sum 6
+DEALER: The winning team is A and C
